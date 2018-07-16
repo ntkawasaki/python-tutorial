@@ -176,7 +176,6 @@ len(s)
 
 Comma-separated values between square brackets. Can have different types, but usually are the same type.
 """
-
 squares = [1, 4, 9, 16, 25]
 squares
 
