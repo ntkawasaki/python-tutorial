@@ -17,7 +17,6 @@ Using the module name you can access the functions:
 fib = fibo.fib
 fib(50)
 
-
 """
 6.1. More on Modules
 
@@ -388,7 +387,8 @@ from . import echo
 from .. import formats
 from ..filters import equalizer
 
-
+for i in range(6):
+  print(i)
 """
 6.4.3. Packages in Multiple Directories
 
